@@ -6,3 +6,5 @@ The model was trained  on 70% of the data and tested on the final 30% of the dat
  2. Performing Explorative Data Analysis.
  3. Data Preprocessing and Data Wrangling.
  4. Creating a Model for the Prediction
+
+The dataset used is the https://zindi.africa/competitions/financial-inclusion-in-africa/data
