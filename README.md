@@ -7,7 +7,18 @@ A machine learning project aimed at predicting financial inclusion across four E
  3. Data Preprocessing and Data Wrangling.
  4. Creating a Model for the Prediction
 
+## Technologies & Libraries Used:
+- Python
+- [pandas](https://pandas.pydata.org/) – data manipulation
+- [numpy](https://numpy.org/) – numerical operations
+- [scikit-learn](https://scikit-learn.org/) – machine learning
+- [matplotlib](https://matplotlib.org/) – plotting
+- [seaborn](https://seaborn.pydata.org/) – statistical visualization
+
+## DataSet Used:
 The dataset used is the https://zindi.africa/competitions/financial-inclusion-in-africa/data
+
 # How to Run
 1. Clone the Repository
-git clone https://github.com/MaameAbaArhin/Financial_Inclusion_Project.git
+git clone https://github.com/MaameAbaArhin/Financial_Inclusion_Project.git 
+
