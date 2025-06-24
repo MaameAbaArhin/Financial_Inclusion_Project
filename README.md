@@ -1,5 +1,6 @@
 # Financial_Inclusion_Project
 A machine learning project aimed at predicting financial inclusion across four East African countries Kenya, Rwanda, Tanzania, and Uganda. The model identifies whether an individual owns a bank account using socio-economic features.
+
  This project involves:
 1. Importing the libaries needed and loading the data.
  2. Performing Explorative Data Analysis.
