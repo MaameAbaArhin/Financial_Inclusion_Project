@@ -15,7 +15,9 @@ A machine learning project aimed at predicting financial inclusion across four E
 - [matplotlib](https://matplotlib.org/) – plotting
 - [seaborn](https://seaborn.pydata.org/) – statistical visualization
 
+## DataSet Used:
 The dataset used is the https://zindi.africa/competitions/financial-inclusion-in-africa/data
+
 # How to Run
 1. Clone the Repository
 git clone https://github.com/MaameAbaArhin/Financial_Inclusion_Project.git 
