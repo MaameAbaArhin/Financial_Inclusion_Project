@@ -7,11 +7,13 @@ A machine learning project aimed at predicting financial inclusion across four E
  3. Data Preprocessing and Data Wrangling.
  4. Creating a Model for the Prediction
 
-# Libraries Used:
-pandas for data manipulation
-numpy for numerical operations
-scikit-learn for model building and evaluation
-matplotlib and seaborn for data visualization
+## Technologies & Libraries Used:
+- Python
+- [pandas](https://pandas.pydata.org/) – data manipulation
+- [numpy](https://numpy.org/) – numerical operations
+- [scikit-learn](https://scikit-learn.org/) – machine learning
+- [matplotlib](https://matplotlib.org/) – plotting
+- [seaborn](https://seaborn.pydata.org/) – statistical visualization
 
 The dataset used is the https://zindi.africa/competitions/financial-inclusion-in-africa/data
 # How to Run
